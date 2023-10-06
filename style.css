@@ -24,3 +24,6 @@
     align-items: center;
     margin-bottom: 20px;
 }
+.container__todoapp h2 img{
+    margin-right: 10px;
+}
