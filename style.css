@@ -43,3 +43,13 @@ input{
     background: transparent;
     padding: 10px;
 }
+button{
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: #ff5946;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+}
