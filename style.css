@@ -18,3 +18,9 @@
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
+.container__todoapp h2{
+    color: #002765;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
