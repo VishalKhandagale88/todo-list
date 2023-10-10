@@ -28,3 +28,7 @@ function saveData() {
     localStorage.setItem("data",listContainer.innerHTML);
 }
 
+// show data from local storage
+function showTask() {
+    listContainer.innerHTML =  localStorage.getItem("data");
+}
