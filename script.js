@@ -22,3 +22,9 @@ listContainer.addEventListener("click",function(e){
         e.target.parentElement.remove();
     }
 },false)
+
+// saving data in local storage of browser
+function saveData() {
+    localStorage.setItem("data",listContainer.innerHTML);
+}
+
